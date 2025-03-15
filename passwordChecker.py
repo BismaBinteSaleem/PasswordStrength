@@ -1,7 +1,6 @@
     
          
 
-import validators
 
 def check_password_strength(password):
     strength = "Weak"
